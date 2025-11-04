@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller output (exes and build directories)
+CSV Cleaner.spec
+CSV Cleaner/
+"CSV Cleaner"/
+
+# Large test outputs (ignore generated heavy CSVs; keep small examples in sample_data)
+99_mega_stress_test.csv
+*.large.csv
+
+# Git LFS pointer files
+.gitattributes
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Other caches
+.ruff_cache/
+.pdm-python
+.pdm-build/
+
+# Optional: ignore local secrets file
+.env.local
+
+# Keep sample_data/ in repo, but avoid committing very large generated files
+# (if you plan to keep large test files, consider Git LFS or storing them in Releases)

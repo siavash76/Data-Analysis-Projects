@@ -1,0 +1,5 @@
+num,bool,percent
+"1,200",yes,25%
+"(1,200)",FALSE,0.25
+3e2,t,50%
+ 42 ,no,

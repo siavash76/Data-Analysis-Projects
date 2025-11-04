@@ -1,0 +1,8 @@
+# Minimal runtime dependencies. Install into a virtualenv before running the GUI or pandas engine.
+PySide6>=6.5
+pandas>=2.0   # optional: required only if you use --engine pandas
+numpy>=1.24   # used by generate_max_payload.py
+# Optional dev/test tools you may add later:
+# ruff
+# black
+# pytest
