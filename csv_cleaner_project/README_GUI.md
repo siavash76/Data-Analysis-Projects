@@ -70,6 +70,15 @@ or use the provided `build_exe.ps1` script (PowerShell).
 
 ---
 
+## Screenshots
+
+### Welcome Page
+![CSV Cleaner GUI - Welcome](./screenshots/gui_welcome.png)
+
+### Options Page
+![CSV Cleaner GUI - Options](./screenshots/gui_options.png)
+
+---
 ## Notes
 
 - Review your cleaned files—this tool standardizes structure, but data context always requires human oversight.
@@ -77,7 +86,3 @@ or use the provided `build_exe.ps1` script (PowerShell).
 - For stress testing, see `generate_max_payload.py` which generates huge messy CSVs.
 
 - Both CLI (`main.py`) and GUI (`gui_app.py`) share the same cleaning core.
-
-
----
-
