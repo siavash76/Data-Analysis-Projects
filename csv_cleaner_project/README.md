@@ -25,3 +25,10 @@ It provides:
 git clone https://github.com/siavash76/Data-Analysis-Projects.git
 cd Data-Analysis-Projects/csv_cleaner_project
 pip install -r requirements.txt
+
+Notes
+Review your cleaned files—this tool standardizes structure, but data context always requires human oversight.
+
+For stress testing, see generate_max_payload.py which generates huge messy CSVs.
+
+Both CLI (main.py) and GUI (gui_app.py) share the same cleaning core.
