@@ -20,7 +20,8 @@ It provides:
 - Live progress display in GUI
 - Consistent cleaning logic shared between CLI and GUI
 
-Notes
+Notes:
+
 Review your cleaned files—this tool standardizes structure, but data context always requires human oversight.
 
 For stress testing, see generate_max_payload.py which generates huge messy CSVs.
