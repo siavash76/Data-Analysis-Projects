@@ -1,6 +1,0 @@
-yfinance
-pandas
-requests
-beautifulsoup4
-plotly
-lxml
