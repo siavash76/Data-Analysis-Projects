@@ -27,5 +27,6 @@ Created dashboards using **IBM Cognos Analytics** :
 ## 📂 Files
 - `CarSalesByModelStart.xlsx` → Raw File Provided by IBM
 - `CarSalesByModelEnd.xlsx` → Excel charts
-- `Dashboard_Cognos.pdf` → Cognos dashboard export
+- `Sales and Service DepartmentsEND.pdf` → Cognos dashboard export
 - `README.md`
+
